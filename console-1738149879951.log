@@ -1,0 +1,364 @@
+ var randomBodyParts = ["глаз", "нос", "череп"];
+ var randomAdjectives = ["вонючая", "унылая", "дурацкая"];
+ var randomWords = ["муха", "выдра", "дубина", "мартышка", "крыса"];
+ // Выбор случайной части тела из массива randomBodyParts:
+  var randomBodyPart = randomBodyParts[Math.floor(Math.random() * 3)];
+ // Выбор случайного прилагательного из массива randomAdjectives:
+  var randomAdjective = randomAdjectives[Math.floor(Math.random() * 3)];
+ // Выбор случайного слова из массива randomWords:
+  var randomWord = randomWords[Math.floor(Math.random() * 5)];
+ // Соединяем случайные строки в предложение:
+ var randomInsult = "У тебя " + randomBodyPart + " словно " + 
+ randomAdjective + " " + randomWord + "!!!";
+ randomInsult;
+VM582:5 Uncaught SyntaxError: Invalid or unexpected token
+ var randomBodyParts = ["глаз", "нос", "череп"];
+ var randomAdjectives = ["вонючая", "унылая", "дурацкая"];
+ var randomWords = ["муха", "выдра", "дубина", "мартышка", "крыса"];
+ // Выбор случайной части тела из массива randomBodyParts:
+  var randomBodyPart = randomBodyParts[Math.floor(Math.random() * 3)];
+ // Выбор случайного прилагательного из массива randomAdjectives:
+  var randomAdjective = randomAdjectives[Math.floor(Math.random() * 3)];
+ // Выбор случайного слова из массива randomWords:
+  var randomWord = randomWords[Math.floor(Math.random() * 5)];
+ // Соединяем случайные строки в предложение:
+ var randomInsult = "У тебя " + randomBodyPart + " словно " + 
+ randomAdjective + " " + randomWord + "!!!";
+
+VM589:5 Uncaught SyntaxError: Invalid or unexpected token
+var penis = 3
+undefined
+penis
+3
+ var randomBodyParts = ["глаз", "нос", "череп"];
+ var randomAdjectives = ["вонючая", "унылая", "дурацкая"];
+ var randomWords = ["муха", "выдра", "дубина", "мартышка", "крыса"];
+undefined
+ var randomBodyPart = randomBodyParts[Math.floor(Math.random() * 3)];
+undefined
+ var randomAdjective = randomAdjectives[Math.floor(Math.random() * 3)];
+undefined
+ var randomWord = randomWords[Math.floor(Math.random() * 5)];
+undefined
+ var randomInsult = "У тебя " + randomBodyPart + " словно " + 
+ randomAdjective + " " + randomWord + "!!!";
+VM689:1 Uncaught SyntaxError: Invalid or unexpected token
+ var randomInsult = "У тебя " + randomBodyPart + " словно " + 
+ randomAdjective + " " + randomWord + "!!!";
+undefined
+ randomInsult;
+'У тебя череп словно вонючая муха!!!'
+ randomInsult;
+'У тебя череп словно вонючая муха!!!'
+ randomInsult;
+'У тебя череп словно вонючая муха!!!'
+ var randomWord = randomWords[Math.floor(Math.random() * 
+ randomWords.length)];
+undefined
+randomInsult
+'У тебя череп словно вонючая муха!!!'
+ var randomWord = randomWords[Math.floor(Math.random() * 
+ randomWords.length)]
+undefined
+var randomXuesos = [ член, хуй, дик];
+var randomTp = [ большой, маленький, худой];
+var randomFamily = [ дядьки, отца, отчима, деда, козлины]; 
+// создаю хуету залупу ебаную как учил индус randomXuesos
+var randomXueso = randomXuesos[Math.floor(Math.random() * 3)];
+// выбор вида члена из randomTp
+var randomTs = [Math.floor(Math.random() * 3)];
+// кто из randomFamily умер
+var randomFamy = [Math.floor(Math.random() * 5)];
+// сооединяем ссемью хуессосв
+var randomInsult = "у тебя" + randomXueso + randomTs + "как у твоей" + randomFamy + ")";
+randomInsult
+VM3085:1 Uncaught ReferenceError: член is not defined
+    at <anonymous>:1:22
+(анонимный) @ VM3085:1
+var randomXuesos = [ член, хуй, дик];
+var randomTp = [ большой, маленький, худой];
+var randomFamily = [ дядьки, отца, отчима, деда, козлины]; 
+// создаю хуету залупу ебаную как учил индус randomXuesos
+var randomXueso = randomXuesos[Math.floor(Math.random() * 3)];
+// выбор вида члена из randomTp
+var randomTs = [Math.floor(Math.random() * 3)];
+// кто из randomFamily умер
+var randomFamy = [Math.floor(Math.random() * 5)];
+// сооединяем ссемью хуессосв
+var randomInsult = "у тебя" + randomXueso + randomTs + "как у твоей" + randomFamy + ")";
+VM3089:1 Uncaught ReferenceError: член is not defined
+    at <anonymous>:1:22
+(анонимный) @ VM3089:1
+var randomXuesos = [ chlen, хуй, дик];
+var randomTp = [ большой, маленький, худой];
+var randomFamily = [ дядьки, отца, отчима, деда, козлины]; 
+// создаю хуету залупу ебаную как учил индус randomXuesos
+var randomXueso = randomXuesos[Math.floor(Math.random() * 3)];
+// выбор вида члена из randomTp
+var randomTs = [Math.floor(Math.random() * 3)];
+// кто из randomFamily умер
+var randomFamy = [Math.floor(Math.random() * 5)];
+// сооединяем ссемью хуессосв
+var randomInsult = "у тебя" + randomXueso + randomTs + "как у твоей" + randomFamy + ")";
+VM3113:1 Uncaught ReferenceError: chlen is not defined
+    at <anonymous>:1:22
+(анонимный) @ VM3113:1
+var randomXuesos = [ "член","хуй", "дик"];
+var randomTp = [ "большой", "маленький", "худой"];
+var randomFamily = [ "дядьки", "отца", "отчима", "деда", "козлины"]; 
+// создаю хуету залупу ебаную как учил индус randomXuesos
+var randomXueso = randomXuesos[Math.floor(Math.random() * 3)];
+// выбор вида члена из randomTp
+var randomTs = [Math.floor(Math.random() * 3)];
+// кто из randomFamily умер
+var randomFamy = [Math.floor(Math.random() * 5)];
+// сооединяем ссемью хуессосв
+var randomInsult = "у тебя" + randomXueso + randomTs + "как у твоей" + randomFamy + ")";
+undefined
+randomInsult
+'у тебядик1как у твоей2)'
+var randomXuesos = [ "член","хуй", "дик"];
+var randomTp = [ "большой", "маленький", "худой"];
+var randomFamily = [ "дядьки", "отца", "отчима", "деда", "козлины"]; 
+// создаю хуету залупу ебаную как учил индус randomXuesos
+var randomXueso = randomXuesos[Math.floor(Math.random() * 3)];
+// выбор вида члена из randomTp
+var randomTs = [Math.floor(Math.random() * 3)];
+// кто из randomFamily умер
+var randomFamy = [Math.floor(Math.random() * 5)];
+// сооединяем ссемью хуессосв
+var randomInsult = "у тебя" + randomXueso + randomTs + "как у твоей" + randomFamy + ")".join;
+
+undefined
+randomInsult
+'у тебяхуй2как у твоей4undefined'
+var randomXuesos = [ "член","хуй", "дик"];
+var randomTp = [ "большой", "маленький", "худой"];
+var randomFamily = [ "дядьки", "отца", "отчима", "деда", "козлины"]; 
+// создаю хуету залупу ебаную как учил индус randomXuesos
+var randomXueso = randomXuesos[Math.floor(Math.random() * 3)];
+// выбор вида члена из randomTp
+var randomTs = [Math.floor(Math.random() * 3)];
+// кто из randomFamily умер
+var randomFamy = [Math.floor(Math.random() * 5)];
+// сооединяем ссемью хуессосв
+var randomInsult = "у тебя"  randomXueso  randomTs  "как у твоей" +randomFamy  ")".join
+
+VM3282:11 Uncaught SyntaxError: Unexpected identifier 'randomXueso'
+var randomXuesos = [ "член","хуй", "дик"];
+var randomTp = [ "большой", "маленький", "худой"];
+var randomFamily = [ "дядьки", "отца", "отчима", "деда", "козлины"]; 
+// создаю хуету залупу ебаную как учил индус randomXuesos
+var randomXueso = randomXuesos[Math.floor(Math.random() * 3)];
+// выбор вида члена из randomTp
+var randomTs = [Math.floor(Math.random() * 3)];
+// кто из randomFamily умер
+var randomFamy = [Math.floor(Math.random() * 5)];
+// сооединяем ссемью хуессосв
+var randomInsult = "у тебя" + randomXueso + randomTs + "как у твоей" + randomFamy + ")";
+
+undefined
+var randomXuesos = [ "член","хуй", "дик"];
+var randomTp = [ "большой", "маленький", "худой"];
+var randomFamily = [ "дядьки", "отца", "отчима", "деда", "козлины"]; 
+// создаю хуету залупу ебаную как учил индус randomXuesos
+var randomXueso = randomXuesos[Math.floor(Math.random() * 3)];
+// выбор вида члена из randomTp
+var randomTs = [Math.floor(Math.random() * 3)];
+// кто из randomFamily умер
+var randomFamy = [Math.floor(Math.random() * 5)];
+// сооединяем ссемью хуессосв
+var randomInsult = "у тебя" + randomXueso + randomTs + "как у твоей" + randomFamy + ")".join " "
+randomInsult
+VM3393:11 Uncaught SyntaxError: Unexpected string
+var randomXuesos = [ "член","хуй", "дик"];
+var randomTp = [ "большой", "маленький", "худой"];
+var randomFamily = [ "дядьки", "отца", "отчима", "деда", "козлины"]; 
+// создаю хуету залупу ебаную как учил индус randomXuesos
+var randomXueso = randomXuesos[Math.floor(Math.random() * 3)];
+// выбор вида члена из randomTp
+var randomTs = [Math.floor(Math.random() * 3)];
+// кто из randomFamily умер
+var randomFamy = [Math.floor(Math.random() * 5)];
+// сооединяем ссемью хуессосв
+var randomInsult = ["у тебя" + randomXueso + randomTs + "как у твоей" + randomFamy + ")"].join " ";
+randomInsult
+VM3530:11 Uncaught SyntaxError: Unexpected string
+var randomXuesos = [ "член","хуй", "дик"];
+var randomTp = [ "большой", "маленький", "худой"];
+var randomFamily = [ "дядьки", "отца", "отчима", "деда", "козлины"]; 
+// создаю хуету залупу ебаную как учил индус randomXuesos
+var randomXueso = randomXuesos[Math.floor(Math.random() * 3)];
+// выбор вида члена из randomTp
+var randomTs = [Math.floor(Math.random() * 3)];
+// кто из randomFamily умер
+var randomFamy = [Math.floor(Math.random() * 5)];
+// сооединяем ссемью хуессосв
+var randomInsult = ["у тебя" + randomXueso + randomTs + "как у твоей" + randomFamy + ")"].join " ";
+
+VM3534:11 Uncaught SyntaxError: Unexpected string
+var randomXuesos = [ "член","хуй", "дик"];
+var randomTp = [ "большой", "маленький", "худой"];
+var randomFamily = [ "дядьки", "отца", "отчима", "деда", "козлины"]; 
+// создаю хуету залупу ебаную как учил индус randomXuesos
+var randomXueso = randomXuesos[Math.floor(Math.random() * 3)];
+// выбор вида члена из randomTp
+var randomTs = [Math.floor(Math.random() * 3)];
+// кто из randomFamily умер
+var randomFamy = [Math.floor(Math.random() * 5)];
+// сооединяем ссемью хуессосв
+var randomInsult = ["у тебя", randomXueso, randomTs, "как у твоей", randomFamy, + ")"].join " ";
+
+VM3575:11 Uncaught SyntaxError: Unexpected string
+  var randomBodyParts = ["глаз", "нос", "череп"];
+ var randomAdjectives = ["вонючая", "унылая", "дурацкая"];
+ var randomWords = ["муха", "выдра", "дубина", "мартышка", "крыса"];
+ // Выбор случайной части тела из массива randomBodyParts:
+  var randomBodyPart = randomBodyParts[Math.floor(Math.random() * 3)];
+ // Выбор случайного прилагательного из массива randomAdjectives:
+  var randomAdjective = randomAdjectives[Math.floor(Math.random() * 3)];
+ // Выбор случайного слова из массива randomWords:
+  var randomWord = randomWords[Math.floor(Math.random() * 5)];
+ // Соединяем случайные строки в предложение:
+ var randomInsult = "У тебя " + randomBodyPart + " словно " + 
+ randomAdjective + " " + randomWord + "!!!";
+VM3665:5 Uncaught SyntaxError: Invalid or unexpected token
+ var randomBodyParts = ["глаз", "нос", "череп"];
+ var randomAdjectives = ["вонючая", "унылая", "дурацкая"];
+ var randomWords = ["муха", "выдра", "дубина", "мартышка", "крыса"];
+ // Выбор случайной части тела из массива randomBodyParts:
+  var randomBodyPart = randomBodyParts[Math.floor(Math.random() * 3)];
+ // Выбор случайного прилагательного из массива randomAdjectives:
+  var randomAdjective = randomAdjectives[Math.floor(Math.random() * 3)];
+ // Выбор случайного слова из массива randomWords:
+  var randomWord = randomWords[Math.floor(Math.random() * 5)];
+ // Соединяем случайные строки в предложение:
+ var randomInsult = "У тебя " + randomBodyPart + " словно " + 
+ randomAdjective + " " + randomWord + "!!!";
+undefined
+randomInsult
+'У тебя глаз словно унылая выдра!!!'
+var randomXuesos = [ "член","хуй", "дик"];
+var randomTp = [ "большой", "маленький", "худой"];
+var randomFamily = [ "дядьки", "отца", "отчима", "деда", "козлины"]; 
+// создаю хуету залупу ебаную как учил индус randomXuesos
+var randomXueso = randomXuesos[Math.floor(Math.random() * 3)];
+// выбор вида члена из randomTp
+var randomTs = [Math.floor(Math.random() * 3)];
+// кто из randomFamily умер
+var randomFamy = [Math.floor(Math.random() * 5)];
+// сооединяем ссемью хуессосв
+var randomInsult = "у тебя" + randomXueso + randomTs + "как у твоей" + randomFamy + ")";
+
+
+undefined
+randomInsult
+'у тебяхуй0как у твоей1)'
+var randomXuesos = [ "член","хуй", "дик"];
+var randomTp = [ "большой", "маленький", "худой"];
+var randomFamily = [ "дядьки", "отца", "отчима", "деда", "козлины"]; 
+// создаю хуету залупу ебаную как учил индус randomXuesos
+var randomXueso = randomXuesos[Math.floor(Math.random() * 3)];
+// выбор вида члена из randomTp
+var randomTs = [Math.floor(Math.random() * 3)];
+// кто из randomFamily умер
+var randomFamy = [Math.floor(Math.random() * 5)];
+// сооединяем ссемью хуессосв
+var randomInsult = "у тебя" + randomXueso " " randomTs + "как у твоей" + randomFamy + ")";
+
+
+VM3760:11 Uncaught SyntaxError: Unexpected string
+var randomXuesos = [ "член","хуй", "дик"];
+var randomTp = [ "большой", "маленький", "худой"];
+var randomFamily = [ "дядьки", "отца", "отчима", "деда", "козлины"]; 
+// создаю хуету залупу ебаную как учил индус randomXuesos
+var randomXueso = randomXuesos[Math.floor(Math.random() * 3)];
+// выбор вида члена из randomTp
+var randomTs = [Math.floor(Math.random() * 3)];
+// кто из randomFamily умер
+var randomFamy = [Math.floor(Math.random() * 5)];
+// сооединяем ссемью хуессосв
+var randomInsult = "у тебя" + randomXueso + " " + randomTs + "как у твоей" + randomFamy + ")";
+undefined
+randomInsult
+'у тебяхуй 0как у твоей1)'
+var randomXuesos = [ "член","хуй", "дик"];
+var randomTp = [ "большой", "маленький", "худой"];
+var randomFamily = [ "дядьки", "отца", "отчима", "деда", "козлины"]; 
+// создаю хуету залупу ебаную как учил индус randomXuesos
+var randomXueso = randomXuesos[Math.floor(Math.random() * 3)];
+// выбор вида члена из randomTp
+var randomTs = randomTp[Math.floor(Math.random() * 3)];
+// кто из randomFamily умер
+var randomFamy = randomFamily[Math.floor(Math.random() * 5)];
+// сооединяем ссемью хуессосв
+var randomInsult = "у тебя" + randomXueso " " randomTs + "как у твоей" + randomFamy + ")";
+VM3802:11 Uncaught SyntaxError: Unexpected string
+var randomXuesos = [ "член","хуй", "дик"];
+var randomTp = [ "большой", "маленький", "худой"];
+var randomFamily = [ "дядьки", "отца", "отчима", "деда", "козлины"]; 
+// создаю хуету залупу ебаную как учил индус randomXuesos
+var randomXueso = randomXuesos[Math.floor(Math.random() * 3)];
+// выбор вида члена из randomTp
+var randomTs = randomTp[Math.floor(Math.random() * 3)];
+// кто из randomFamily умер
+var randomFamy = randomFamily[Math.floor(Math.random() * 5)];
+// сооединяем ссемью хуессосв
+var randomInsult = "у тебя" + randomXueso + " " + randomTs + "как у твоей" + randomFamy + ")";
+undefined
+randomInsult
+'у тебяхуй худойкак у твоейдеда)'
+var randomXuesos = [ "член","хуй", "дик"];
+var randomTp = [ "большой", "маленький", "худой"];
+var randomFamily = [ "дядьки", "отца", "отчима", "деда", "козлины"]; 
+// создаю хуету залупу ебаную как учил индус randomXuesos
+var randomXueso = randomXuesos[Math.floor(Math.random() * 3)];
+// выбор вида члена из randomTp
+var randomTs = randomTp[Math.floor(Math.random() * 3)];
+// кто из randomFamily умер
+var randomFamy = randomFamily[Math.floor(Math.random() * 5)];
+// сооединяем ссемью хуессосв
+var randomInsult = ["у тебя"  randomXueso  " "  randomTs  "как у твоей"  randomFamy + ")"].join" " 
+VM3892:11 Uncaught SyntaxError: Unexpected identifier 'randomXueso'
+var randomXuesos = [ "член","хуй", "дик"];
+var randomTp = [ "большой", "маленький", "худой"];
+var randomFamily = [ "дядьки", "отца", "отчима", "деда", "козлины"]; 
+// создаю хуету залупу ебаную как учил индус randomXuesos
+var randomXueso = randomXuesos[Math.floor(Math.random() * 3)];
+// выбор вида члена из randomTp
+var randomTs = randomTp[Math.floor(Math.random() * 3)];
+// кто из randomFamily умер
+var randomFamy = randomFamily[Math.floor(Math.random() * 5)];
+// сооединяем ссемью хуессосв
+ var randomInsult = ["У тебя", randomXueso, "как у твоего", 
+ randomTs, randomFamy + "!!!"].join(" ");
+randomInsult
+'У тебя хуй как у твоего маленький дядьки!!!'
+var randomXuesos = [ "член","хуй", "дик"];
+var randomTp = [ "большой", "маленький", "худой"];
+var randomFamily = [ "дядьки", "отца", "отчима", "деда", "козлины"]; 
+// создаю хуету залупу ебаную как учил индус randomXuesos
+var randomXueso = randomXuesos[Math.floor(Math.random() * 3)];
+// выбор вида члена из randomTp
+var randomTs = randomTp[Math.floor(Math.random() * 3)];
+// кто из randomFamily умер
+var randomFamy = randomFamily[Math.floor(Math.random() * 5)];
+// сооединяем ссемью хуессосв
+ var randomInsult = ["У тебя", randomXueso, 
+ randomTs, "как у твоего", randomFamy + "!!!"].join(" ");
+randomInsult
+'У тебя дик худой как у твоего козлины!!!'
+var randomXuesos = [ "член","хуй", "дик"];
+var randomTp = [ "большой", "маленький", "худой"];
+var randomFamily = [ "дядьки", "отца", "отчима", "деда", "прадеда"]; 
+// создаю хуету залупу ебаную как учил индус randomXuesos
+var randomXueso = randomXuesos[Math.floor(Math.random() * 3)];
+// выбор вида члена из randomTp
+var randomTs = randomTp[Math.floor(Math.random() * 3)];
+// кто из randomFamily умер
+var randomFamy = randomFamily[Math.floor(Math.random() * 5)];
+// сооединяем ссемью хуессосв
+ var randomInsult = ["У тебя", randomXueso, 
+ randomTs, "как у твоего", randomFamy + "!!!"].join(" ");
+randomInsult
+'У тебя хуй большой как у твоего прадеда!!!'
