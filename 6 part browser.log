@@ -1,0 +1,47 @@
+var name = "Никита";
+console.log ("Привет мне");
+if (name === "Никита");
+else {
+console.log ("Привет незнакомец");
+}
+
+VM202:2 Привет мне
+undefined
+var name = "Никита";
+console.log ("Привет мне");
+if (name === "Никита");
+else {
+console.log ("Привет незнакомец");
+}
+if (name === "Владимир") {
+    console.log ("Привет папа")
+}
+if (name === "Ольга") {
+    console.log ("Привет мама")
+}
+VM588:2 Привет мне
+undefined
+for ( var x = 3; x < 10000; x = x * 3) {
+console.lox (x);
+}
+var sheepCounted = 0;
+  while (sheepCounted < 10) {
+  console.log("Посчитано овец: " + sheepCounted + "!");
+     sheepCounted++;
+ }
+ console.log("Хрррррррррр-псссс");
+
+ var animals = ["Кот", "Рыба", "Лемур", "Комодский варан"];
+for (animals[0] = animals[0] + "handsome animal");
+     (animals[1] = animals[1] + "handsome animal");
+     (animals[2] = animals[2] + "handsome animal");
+(animals[3] = animals[3] + "handsome animal"); {
+    console.log(animals);
+}
+var animals = ["Кот", "Рыба", "Лемур", "Комодский варан"];
+for ( animals[0] = animals[0] + " handsome animal" );
+     ( animals[1] = animals[1] + " handsome animal" );
+     ( animals[2] = animals[2] + " handsome animal" );
+( animals[3] = animals[3] + " handsome animal" ); {
+    console.log(animals);
+}
