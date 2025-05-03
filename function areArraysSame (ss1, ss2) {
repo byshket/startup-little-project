@@ -1,0 +1,18 @@
+function areArraysSame (ss1, ss2) {
+	if (ss1.length !== ss2.lenght) {
+	return false;
+	}
+	for (var i=0; i < ss1.lenght; i++) {
+	if (ss1[i] !== ss2[i]) {
+	return  false;
+	}
+  }
+	return true;
+}
+
+ console.log(areArraysSame([1, 2, 3], [4, 5, 6]));
+ 
+console.log(areArraysSame([1, 2, 3], [1, 2, 3]));
+ 
+ console.log(areArraysSame([1, 2, 3], [1, 2, 3, 4]));
+ // 2 задание функций Моргана Н.

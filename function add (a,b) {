@@ -1,0 +1,9 @@
+function add (a,b) {
+	return a + b;
+};
+function multiply (a,b) {
+	return a*b;
+};
+var insult = add(multiply(36325, 9824), 777);
+console.log(insult);
+// Задание из книги Моргана Н., тема Функции. Ответа кода: 356857577
